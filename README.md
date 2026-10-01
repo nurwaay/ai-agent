@@ -30,3 +30,4 @@ AI Agent — веб-приложение с элементами искусст�
 
 Разработать веб-приложение AI Agent и организовать процесс разработки
 с использованием Git, GitHub, GitLab CI и Jenkins.
+Dev branch version: AI Agent development environment.
