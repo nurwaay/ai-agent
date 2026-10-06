@@ -1,4 +1,7 @@
 def agent_response(message):
+    if not message.strip():
+        return "Please enter a message."
+
     if message.lower() == "help":
         return "Available commands: help"
 
